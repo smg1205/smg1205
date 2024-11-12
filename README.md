@@ -1,5 +1,6 @@
 ## Hi there 👋
-<h1> hello, world </h1>
+A Student from China. Coming soon to the factory🧑‍🔧
+
 <!--
 **smg1205/smg1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
