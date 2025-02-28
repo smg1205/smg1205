@@ -1,6 +1,6 @@
 ## Hi there 👋
 A Student from China. Coming soon to the factory🧑‍🔧
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?smg1205=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smg1205)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **smg1205/smg1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
