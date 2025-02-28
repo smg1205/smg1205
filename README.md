@@ -4,9 +4,9 @@ A Student from China. Coming soon to the  Electronics Factory. 🧑‍🔧
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smg1205)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[github-contribution-grid-snake-dark.svg](https://github.com/smg1205/smg1205/raw/refs/heads/output/github-contribution-grid-snake-dark.svg)" />
-  <source media="(prefers-color-scheme: light)" srcset="[github-contribution-grid-snake.svg](https://raw.githubusercontent.com/smg1205/smg1205/refs/heads/output/github-contribution-grid-snake.svg)" />
-  <img alt="github-snake" src="[github-snake.svg](https://raw.githubusercontent.com/smg1205/smg1205/refs/heads/output/github-contribution-grid-snake.svg)" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/smg1205/smg1205/raw/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smg1205/smg1205/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/smg1205/smg1205/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <!--
