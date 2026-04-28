@@ -1,5 +1,5 @@
 ## Hi there 👋
-A Student from China. Coming soon to the  Electronics Factory. 🧑‍🔧
+A human from China.🧑‍🔧
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smg1205)](https://github.com/anuraghazra/github-readme-stats)
 
